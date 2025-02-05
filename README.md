@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Satrasala Naga Sahith</h1>
+<h1 align="center">Hi I'm Satrasala Naga Sahith</h1>
 <h3 align="center">A Java full stack Developer</h3>
 
 - 🔭 I worked on [Employee Management system](https://github.com/naga123sn/JFS10WD/tree/main/JFS%20MINI%20PROJECT-1)
