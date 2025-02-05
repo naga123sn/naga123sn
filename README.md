@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [N/A](N/A)
 
-- 👨‍💻 All of my projects are available at [https://naga123sn.github.io/Satrasala-portfolio/](https://naga123sn.github.io/Satrasala-portfolio/)
+- 👨‍💻 All of my projects are available at [https://naga123sn.github.io/Sahith-Portfolio/)
 
 - 💬 Ask me about **JAVA,HTML,CSS,Spring Boot**
 
